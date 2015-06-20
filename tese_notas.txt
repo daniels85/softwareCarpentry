@@ -2,6 +2,8 @@ Olá,
 
 estudando o git...
 
-continuando estudando... 
+continuando estudando...
+
+Agora eu estou aprendendo GIT com Regia. 
 
 
