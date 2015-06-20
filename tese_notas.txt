@@ -8,6 +8,7 @@ Agora eu estou aprendendo GIT com Regia.
 
 Editando localmente...
 
+GITX
 
 Agora, modifiquei pela web.
 
