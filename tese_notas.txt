@@ -6,5 +6,10 @@ continuando estudando...
 
 Agora eu estou aprendendo GIT com Regia. 
 
+<<<<<<< HEAD
 Editando localmente...
+=======
+Agora, modifiquei pela web.
+
+>>>>>>> 7280dfd2140692aa875cec571f01db2ec82e2f52
 
